@@ -1,5 +1,7 @@
 # __Face Landmarks Detection__
 
+![Inference on few celebraties](awesome_output.png)
+
 ## __Data preprocessing__
 
 1. Augmentations for faces:
