@@ -1,6 +1,6 @@
 # __Face Landmarks Detection__
 
-![Inference on few celebraties](awesome_output.png)
+![Inference on few celebraties](awesome_outputs.png)
 
 ## __Data preprocessing__
 
