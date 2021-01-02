@@ -206,6 +206,8 @@ Estimated Total Size (MB): 451.12
 
 ![Progress of the model thoughout the training](progress.gif)
 
+## __Read Full Article__(https://medium.com/swlh/facial-landmarks-detection-using-xception-net-908b8b80f758)
+
 ## __Watch the video__
 
 [![Watch the video here](https://img.youtube.com/vi/Q8oJxOSRMSw/0.jpg)](https://www.youtube.com/watch?v=Q8oJxOSRMSw)
