@@ -206,6 +206,10 @@ Estimated Total Size (MB): 451.12
 
 ![Progress of the model thoughout the training](progress.gif)
 
+## Final Results
+
+![Final outputs of the model](output.gif)
+
 ## __Watch the video__
 
 [![Watch the video here](https://img.youtube.com/vi/Q8oJxOSRMSw/0.jpg)](https://www.youtube.com/watch?v=Q8oJxOSRMSw)
